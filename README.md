@@ -1,6 +1,8 @@
 # RecursosOsint
 Estos son 15 recursos gratuitos de OSINT (libros, manuales, presentaciones y documentos de investigación) para pasar de cero a héroe.
 
+### TRADUCIDOS AL ESPAÑOL EN LA CARPETA "TRADUCIDOS"
+
 1. OSINT OPEN-SOURCE INTELLIGENCE by OWASP - https://owasp.org/www-chapter-ghana/assets/slides/OWASP_OSINT_Presentation.pdf
 
 2. OPEN SOURCE INTELLIGENCE TOOLS AND RESOURCES HANDBOOK 2020 - https://i-intelligence.eu/uploads/public-documents/OSINT_Handbook_2020.pdf
