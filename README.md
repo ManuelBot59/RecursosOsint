@@ -22,6 +22,10 @@
 - ✅ [10. Manual de Verificación OSINT ](https://github.com/ManuelBot59/RecursosOsint/blob/main/Traducidos/12.%20verification.handbook%20-%20Espa%C3%B1ol.pdf)
 - ✅ [11. La mina de oro aún no explotada de OSINT](https://github.com/ManuelBot59/RecursosOsint/blob/main/Traducidos/13.%20The_Not_Yet_Exploited_Goldmine_of_OSINT_Opportunities_Open_Challenges_and_Future_Trends%20-%20Espa%C3%B1ol.pdf)
 - ✅ [12. Documentación OSINT por http://AsktheEU.org](https://github.com/ManuelBot59/RecursosOsint/blob/main/Traducidos/14.%20OSINT%20Documentation%20-%20Espa%C3%B1ol.pdf)
+- ✅ [13. The Not Yet Exploited Goldmine of OSINT](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8954668)
+- ✅ [14. OSINT Documentation.pdf by  http://AsktheEU.org](https://asktheeu.org/en/request/5762/response/18627/attach/8/9.OSINT%20Documentation.pdf)
+- ✅ [15. OSINT Investigative visual research methods by Dataharvest](https://dataharvest.eu/wp-content/uploads/2021/05/Presentation_BHShare_DH2021.pdf)
+- ✅ [16. Inteligencia Criminal: Manual para analistas](https://github.com/ManuelBot59/RecursosOsint/blob/main/Traducidos/16.%20Criminal_Intelligence_for_Analysts%20(ESP).pdf)
 
 ### :star:Fuentes originales:
 
@@ -32,7 +36,6 @@
 - ✅ [5. Applications in Data Science & AI: Cyber Intelligence OSINT](https://inside.southernct.edu/sites/default/files/inline-files/OSINT%20-%20Applications%20in%20Data%20Science.pdf)
 - ✅ [6. A PRACTICAL OSINT GUIDE TO CONDUCTING BUSINES](https://suranaandsurana.com/wp-content/uploads/2021/11/A-practical-OSINT-guide-.pdf)
 - ✅ [7. Defining Second Generation Open Source Intelligence (OSINT) for the defense enterprise](https://apps.dtic.mil/sti/pdfs/AD1053555.pdf)
-
 - ✅ [8. How to conduct effective Open Source Investigations online - ITU](https://itu.int/en/ITU-D/Cybersecurity/Documents/CyberDrill-2020/How%20to%20conduct%20effective%20OSINT%20investigation%20online.pdf)
 - ✅ [9. OPEN SOURCE INTELLIGENCE (OSINT). THE WAY AHEAD](http://jodrm.eu/issues/Volume12_issue1/09_Gabriel-Traian_UNGUREANU.pdf)
 - ✅ [10. 21 OSINT Research Tools for Threat Intelligence - Authentic8](https://www.authentic8.com/resources/21-osint-research-tools-threat-intelligence)
@@ -41,3 +44,4 @@
 - ✅ [13. The Not Yet Exploited Goldmine of OSINT](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8954668)
 - ✅ [14. OSINT Documentation.pdf by  http://AsktheEU.org](https://asktheeu.org/en/request/5762/response/18627/attach/8/9.OSINT%20Documentation.pdf)
 - ✅ [15. OSINT Investigative visual research methods by Dataharvest](https://dataharvest.eu/wp-content/uploads/2021/05/Presentation_BHShare_DH2021.pdf)
+- ✅ [16. Criminal Intelligence: Manual for analysts](https://www.unodc.org/documents/organized-crime/Law-Enforcement/Criminal_Intelligence_for_Analysts.pdf)
